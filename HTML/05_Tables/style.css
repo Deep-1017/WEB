@@ -1,0 +1,17 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 40px;
+}
+
+th {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
+
+div {
+    display: flex;
+}
