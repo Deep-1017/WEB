@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    color: #ddd;
+}
+
+h1 {
+    color: red;
+}
+
+.head1 {
+    color: green;
+}
+
+#head3 {
+    color: pink;
+}
